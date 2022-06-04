@@ -1,6 +1,10 @@
 # restaurantes_app
 
-A new Flutter project.
+Las funcionalidades dadas (apenas dentro del mismo) son:
+
+Inicio de sesión y registro del usuario.
+
+Pdta: Es evidente que con esto la prueba no se alcanza a pasar, sin embargo, gracias por la oportunidad! (En otro de mis proyectos uso algo parecido, dando rutas con una API key de Google, sin embargo no había tenido en cuenta los cambios de Flutter 2.0 y quedé con varios errores).
 
 ## Getting Started
 
